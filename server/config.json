@@ -1,0 +1,9 @@
+{
+    "rds_host": "cis5500-code-miner-db.cscce91bltdv.us-east-1.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "miner",
+    "rds_password" : "cdmnrDB1234",
+    "rds_db": "movies_oscars_db",
+    "server_host": "127.0.0.1",
+    "server_port":"8080"
+}
